@@ -1,0 +1,2 @@
+(this["webpackJsonp@codenote-x/local-client"]=this["webpackJsonp@codenote-x/local-client"]||[]).push([[52],{222:function(e,t){Prism.languages.brainfuck={pointer:{pattern:/<|>/,alias:"keyword"},increment:{pattern:/\+/,alias:"inserted"},decrement:{pattern:/-/,alias:"deleted"},branching:{pattern:/\[|\]/,alias:"important"},operator:/[.,]/,comment:/\S+/}}}]);
+//# sourceMappingURL=52.5f237633.chunk.js.map
